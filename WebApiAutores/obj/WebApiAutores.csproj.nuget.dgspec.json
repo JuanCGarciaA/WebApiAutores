@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {}
+    "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {
+    "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
         "projectName": "WebApiAutores",
-        "projectPath": "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
+        "projectPath": "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
         "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\obj\\",
+        "outputPath": "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

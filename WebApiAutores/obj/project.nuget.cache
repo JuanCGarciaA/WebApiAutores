@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LUznVlPF4dAgjze0hgReL5fYSSADzbiRqPDeu94fjODQMbjZCRAt4MROEQWxk2VdeXRQTPmI+lPj6eUifAPrQ==",
+  "dgSpecHash": "ybXEqcs0teL+X0DWZ09dGmJqPSLV5uHJLcE5IU2Zk1+cexdAk45mP175fheKTQBTPWWRBP2JyQMcvaZiaKSm6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Carlos\\Desktop\\Ejercicios\\Web Api UDEMY\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
+  "projectFilePath": "C:\\Users\\Juan Carlos\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Carlos\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Juan Carlos\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
